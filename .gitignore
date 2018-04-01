@@ -1,0 +1,13 @@
+anomaly.pcap.json
+input.pcap.json
+normal.pcap.json
+normal_data
+fuzzed_data
+real_data
+input.json
+2M-Packets-DNP3.pcap
+C37.118_4in1PMU_TCP.pcap
+DNP3_20000_clean.pcap
+DNP3_non-standard_clean.pcap
+pcap-dnp3-only.pcap
+
