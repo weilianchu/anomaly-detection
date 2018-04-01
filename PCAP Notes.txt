@@ -1,0 +1,18 @@
+DNP3 PCAPS
+
+NOTE: There are no malicious binary payloads in ANY of these files.  There may be anomaly injected using fuzzing techniques.
+
+
+*2M-Packets-DNP3.pcap
+2M overall packets w/multiple DNP3 methods.  Clean data with no injects
+
+*DNP3_20000.pcap
+DEV/Test Environments Standard 20000 port numbers.  This is from a development environment but is "clean" data, meaning true to the spec.
+
+*DNP3non-standard.pcap
+DNP3 Fuzzing PCAPS used to test specific DNP3 fuzzing attacks
+
+*Pcap-dnp3-only.pcap
+Just lots of redundant DNP3 data, limited hosts
+
+(Revised 3/20/18)
